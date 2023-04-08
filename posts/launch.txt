@@ -1,0 +1,29 @@
+2023.04.08
+# LAUNCH PARTY
+
+This is the first official post on BSTRDS.net. I'm launching this thing on a whim but am quickly solidifying my plans for this site. It's primarily going to be a personal blog. But I also want to start a web ring for likeminded personal webistes. (The BSTRDS Network has a hell of a ring to it, huh?) 
+
+This website will forever be a text-only website. I've been wanting to make one of these for a couple of years now, so why not today? My first attempt at this sort of thing was using the Gemini protocol on the Yesterweb server. I'm still very fond of Gemini, but I guess I like the accessibility and ease of use of HTTP a bit more. Hard to compete with the ability to open up any old browser and instantly access my site. (Although, I know that the esoteric nature of an alternative protocol is half the point.) 
+
+I've been thinking a lot about my desire to put stuff on the internet. It's a weird thing. I like the idea of a private journal, but there's just some appeal about putting stuff *out there*. It mostly comes down to the innate human desire to connect with others. It's necessarily a social act, a form of public communication. But obviously, in the sea of cyberspace, there's an extremely high chance that my audience will forever be zero. And I also find that appealing. An ephemeral message in a bottle that may or not ever be opened. I dunno, man, I just think this stuff is cool, I guess? It feels like a win win. It's satisfying. It's an act of creation — and I want to do it a bit more. Especially as a somewhat hostile alternative to social media.
+
+This desire also runs parallel with my new-found love of text files. I've been using text files to take notes and journal. In January, I managed to journal every single day, which was the longest streak I've ever been able to pull off. (However, it did kind of burn me out and I haven't written to that file since, lol.) I wouldn't call myself a minimalist, but I love how simple and straightforward and efficient text files are. Long live .txt. 
+
+The launch of BSTRDS.net also represents a break from my (slightly more) professional presence on the internet. I've typically used my real, full name in most online spaces — and luckily without issue. But I've always been a little uncomfortable with this approach. And I've been recently reminded of the value of separating certain things out a bit. I'm also required to have a professional presence online if I ever want to find another job or any freelance work. But I also just want to have a completely *personal* website that has no connection whatsoever to commercial interests. So here we are. Welcome to BSTRDS.net. 
+
+Thanks for reading. 
+
+
+## SPECIAL THANKS
+
+This website is heavily inspired by:
+
+– yesterweb.org
+- sadgrl.online
+- tiny-universes.net
+- textonly.website
+- nocss.club
+- korayer.de
+- xxiivv.com
+- shinobi.bt.ht
+- bikobatanari.art
