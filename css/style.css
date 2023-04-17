@@ -3,6 +3,7 @@
   --bg: #fff;}
 body {
   font-family: sans-serif;
+  line-height: 22px;
   background-color: var(--bg);
   color: var(--text);
   padding: 0 2%;
