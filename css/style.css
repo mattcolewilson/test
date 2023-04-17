@@ -6,7 +6,7 @@ body {
   line-height: 22px;
   background-color: var(--bg);
   color: var(--text);
-  padding: 0 2%;
+  padding: 2%;
   max-width: 800px;} 
 a {color: inherit;}
 @media (prefers-color-scheme: dark) {
