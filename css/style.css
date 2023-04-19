@@ -1,9 +1,8 @@
 :root {
   --text: #000;
-  --bg: #fff;}
+  --bg: #f8f8ff;}
 body {
   font-family: sans-serif;
-  line-height: 22px;
   background-color: var(--bg);
   color: var(--text);
   padding: 2%;
