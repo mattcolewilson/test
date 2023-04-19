@@ -1,14 +1,14 @@
 :root {
   --text: #000;
-  --bg: #f8f8ff;}
+  --bg: #fff;}
 body {
   font-family: sans-serif;
   background-color: var(--bg);
   color: var(--text);
-  padding: 2%;
+  padding: 1%;
   max-width: 800px;} 
 a {color: inherit;}
 @media (prefers-color-scheme: dark) {
   :root {
-    --text: #f8f8ff;
+    --text: #fff;
     --bg: #000;}
