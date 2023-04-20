@@ -2,7 +2,7 @@
   --text: #000;
   --bg: #fff;}
 body {
-  font-family: sans-serif;
+  font-family: sans-serif; line-height: 125%;
   background-color: var(--bg);
   color: var(--text);
   padding: 1%;

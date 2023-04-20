@@ -1,0 +1,13 @@
+       __      _ __       __       __ 
+  ____/ /___ _(_) /_  __ / /__  __/ /_
+ / __  / __ `/ / / / / // __/ |/_/ __/
+/ /_/ / /_/ / / / /_/ // /__>  </ /_  
+\__,_/\__,_/_/_/\__, (_)__/_/|_|\__/  
+               /____/               
+
+This is an attempt to make writing a daily habit and replace/reroute any urge to post on social media. It's a DIY, one-way, non-interactive microblogging platform (a text file posted on my website: mwtext.com). Partially inspired by writtte on nohappynonsense.net and the twtxt microblogging service. I'm hoping to write at least one thing each day, but failure will be apparent. Uploading less often than that, though. Maybe once a week. Starting on April 20, 2023 and posting in reverse chronological order. 
+
+——————————————————————————————————————
+
+## 2023-04-20	Happy 4/20. Here again, posting stuff on the internet. I dunno, I just think it's neat.
+
