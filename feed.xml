@@ -1,0 +1,40 @@
+<rss version="2.0">
+<channel>
+<title>mwtext.com</title>
+<link>https://mwtext.com</link>
+<description>mwtext.com</description>
+<ttl>60</ttl>
+<item>
+    <pubDate>Sat, 22 Apr 2023 16:20:00 CST</pubDate>
+    <title>daily.txt</title>
+    <link>https://mwtext.com/files/daily.txt</link>
+    <description>Daily(?) thoughts, posted to a text file on my website instead of Tw*tt*r.</description>
+    <author>mail@mwtext.com</author>
+    <guid>https://mwtext.com/files/daily.txt</guid>
+  </item>
+<item>
+    <pubDate>Sat, 22 Apr 2023 16:20:00 CST</pubDate>
+    <title>Manifesto</title>
+    <link>https://mwtext.com/notes/manifesto.html</link>
+    <description>A rough attempt at stating my intentions with this new, personal website.</description>
+    <author>mail@mwtext.com</author>
+    <guid>https://mwtext.com/notes/manifesto.html</guid>
+  </item>
+<item>
+    <pubDate>Thu, 20 Apr 2023 16:20:00 CST</pubDate>
+    <title>Everyday Carry</title>
+    <link>https://mwtext.com/notes/edc.html</link>
+    <description>Some notes about the stuff in my pockets.</description>
+    <author>mail@mwtext.com</author>
+    <guid>https://mwtext.com/notes/edc.html</guid>
+  </item>
+<item>
+    <pubDate>Thu, 20 Apr 2023 16:20:00 CST</pubDate>
+    <title>Reading</title>
+    <link>https://mwtext.com/notes/reading.html</link>
+    <description>I've been keeping a log of the books I've read, since 2021.</description>
+    <author>mail@mwtext.com</author>
+    <guid>https://mwtext.com/notes/reading.html</guid>
+  </item>
+</channel>
+</rss>
