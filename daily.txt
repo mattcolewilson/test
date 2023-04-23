@@ -9,8 +9,11 @@ This is an attempt to make writing a daily habit and replace/reroute any urge to
 
 ——————————————————————————————————————
 
-2023-04-22	Looking into creating an RSS feed. Might just do it manually, but seems difficult. 
+2023-04-22
+Looking into creating an RSS feed. Might just do it manually, but seems difficult. 
 
-2023-04-21	I've decided to move into the haunted castle on the back of the Windows 95 Solitaire cards.
+2023-04-21
+I've decided to move into the haunted castle on the back of the Windows 95 Solitaire cards.
 
-2023-04-20	Happy 4/20. Here again, posting stuff on the internet. I dunno, I just think it's neat.
+2023-04-20
+Happy 4/20. Here again, posting stuff on the internet. I dunno, I just think it's neat.
