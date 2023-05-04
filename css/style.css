@@ -1,13 +1,14 @@
-:root {
+	:root {
   --text: #000;
   --bg: #fff;}
 body {
-  font-family: sans-serif; line-height: 125%;
+  font-family: monospace;
   background-color: var(--bg);
   color: var(--text);
   padding: 1%;
-  max-width: 800px;} 
+  max-width: 666px;} 
 a {color: inherit;}
+h1, h2, h3, p {font-size: 10pt;}
 @media (prefers-color-scheme: dark) {
   :root {
     --text: #fff;
