@@ -2,7 +2,7 @@
   --text: #000;
   --bg: #fff;}
 body {
-  font-family: monospace;
+  font-family: monospace; line-height: 125%;
   background-color: var(--bg);
   color: var(--text);
   padding: 1%;
