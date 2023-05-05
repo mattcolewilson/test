@@ -2,13 +2,26 @@
   --text: #000;
   --bg: #fff;}
 body {
-  font-family: monospace; line-height: 125%;
+  font-family: sans-serif; line-height: 130%;
   background-color: var(--bg);
   color: var(--text);
-  padding: 1%;
-  max-width: 666px;} 
+  padding: 10px;
+  margin: auto;
+  max-width: 800px;} 
+  
 a {color: inherit;}
-h1, h2, h3, p {font-size: 10pt;}
+
+p {font-size: 11pt;}
+
+h3 {font-size: 8pt; color: #777; margin-bottom: -10px; text-transform: uppercase; letter-spacing: 1px;}
+
+.post {
+padding: 0 2%;
+margin: 15px 0px 15px;
+border: 1px dotted #777;
+max-width:100%;
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --text: #fff;
