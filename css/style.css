@@ -9,16 +9,17 @@ body {
   margin: auto;
   max-width: 800px;} 
   
-a {color: inherit;}
+a {color: #829AB1;}
 
 p {font-size: 11pt;}
 
-h3 {font-size: 8pt; color: #777; margin-bottom: -10px; text-transform: uppercase; letter-spacing: 1px;}
+h3 {font-size: 8pt; color: #829AB1; margin-bottom: -10px; text-transform: uppercase; letter-spacing: 1px;}
 
 .post {
 padding: 0 2%;
-margin: 15px 0px 15px;
-border: 1px dotted #777;
+margin: 20px 0px 20px;
+border: 1px solid #829AB1;
+border-radius: 15px;
 max-width:100%;
 }
 
