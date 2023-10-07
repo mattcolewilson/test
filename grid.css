@@ -46,8 +46,3 @@ cell[span$="-7"],cell[span="8"]{--grid-b:8}
 cell[span]{grid-column-end:span var(--grid-b)}
 cell[span *="-"]{grid-column-start:var(--grid-a)}
 cell[span *="-"]{grid-column-end:var(--grid-b)}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --text: #fff;
-    --bg: #000;}
